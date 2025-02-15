@@ -55,3 +55,5 @@ int main()
 		printf("%d ",a[i]);
 	}
 }
+//Time complexitiy--->O(nlogn)
+//Space complexitiy--->O(n)
