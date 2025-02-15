@@ -53,3 +53,5 @@ int main()
 		printf("%d ",a[i]);
 	}
 }
+//Time complexitiy--->O(n^2)
+//Space complexitiy--->O(1)
