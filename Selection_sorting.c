@@ -32,3 +32,5 @@ int main()
 		printf("%d",A[i]);
 	}
 }
+//Time complexitiy--->O(n^2)
+//Space complexitiy--->O(1)
